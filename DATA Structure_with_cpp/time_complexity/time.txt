@@ -1,0 +1,4 @@
+//contant type
+int a,b;
+int result = a+b;
+cout<<result;
