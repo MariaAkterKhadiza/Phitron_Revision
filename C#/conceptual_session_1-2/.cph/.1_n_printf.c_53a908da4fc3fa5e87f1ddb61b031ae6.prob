@@ -1,0 +1,1 @@
+{"name":"Local: 1_n_printf","url":"d:\\Phitron_Revision\\C#\\conceptual_session_1-2\\1_n_printf.c","tests":[{"id":1718444609696,"input":"5","output":"1\n2\n3\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron_Revision\\C#\\conceptual_session_1-2\\1_n_printf.c","group":"local","local":true}
